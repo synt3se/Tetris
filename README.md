@@ -11,3 +11,6 @@
 1. Игра должна поддерживать таблицу рекордов.
 2. Пользователю должны быть доступны команды: Exit, About, New Game, High Scores.
 
+Пример игры:
+
+![2025-04-01_10-46-43](https://github.com/user-attachments/assets/1ad3dbbc-a251-4f59-bf16-37e06c66ea49)
